@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Res/buttonsigns/sign_exit.png</file>
+        <file>Res/buttonsigns/sign_help.png</file>
+        <file>Res/buttonsigns/sign_refresh.png</file>
+        <file>Res/Icons/icon_win.ico</file>
+        <file>Res/Strings/accessible_boards_list.txt</file>
+        <file>Res/Strings/accessible_devices_list.txt</file>
+    </qresource>
+</RCC>

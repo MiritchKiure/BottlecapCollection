@@ -1,0 +1,3 @@
+ГК (экран)|Module_KAU_1
+ГК (светодиоды)|Module_KAU_1
+КАУ МОПС|Module_KAUMOPS_1
